@@ -1,5 +1,5 @@
 # Google Colab 使用教學：附帶 MNIST 案例
-
+11228017盧思綺 11224120丁誠祐
 ## 一、專案簡介
 
 本專案旨在介紹 Google Colaboratory（Google Colab）的基本操作，並透過 MNIST 手寫數字辨識案例，示範如何使用 Python 與 TensorFlow 建立、訓練及評估人工智慧模型。
