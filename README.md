@@ -251,6 +251,8 @@ google-colab-mnist/
 4. 等待模型完成訓練。
 5. 查看測試準確率與手寫數字預測結果。
 
+   <img width="1016" height="518" alt="image" src="https://github.com/user-attachments/assets/3d1abdba-2902-4aae-b464-f9c5c1fb938b" />
+
 本案例使用的 TensorFlow、NumPy 與 Matplotlib 可在一般 Colab 執行環境中使用；若執行環境缺少相關套件，請依實際錯誤訊息安裝。
 
 ## 九、學習心得與結論
@@ -260,8 +262,6 @@ google-colab-mnist/
 從資料載入、影像預處理、模型建立、訓練到評估，完整呈現機器學習的基本流程。藉由 MNIST 案例，也能初步認識神經網路在影像分類上的應用。
 
 Google Colab 提供方便的雲端開發環境，適合初學者進行 Python 程式設計、人工智慧與機器學習的入門練習。
-
-<img width="1016" height="518" alt="image" src="https://github.com/user-attachments/assets/3d1abdba-2902-4aae-b464-f9c5c1fb938b" />
 
 
 ## 十、參考資料
