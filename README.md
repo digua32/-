@@ -261,6 +261,9 @@ google-colab-mnist/
 
 Google Colab 提供方便的雲端開發環境，適合初學者進行 Python 程式設計、人工智慧與機器學習的入門練習。
 
+<img width="1016" height="518" alt="image" src="https://github.com/user-attachments/assets/3d1abdba-2902-4aae-b464-f9c5c1fb938b" />
+
+
 ## 十、參考資料
 
 - [Google Colab 官方網站](https://colab.research.google.com/)
